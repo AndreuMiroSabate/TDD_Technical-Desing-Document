@@ -57,3 +57,12 @@ This part is the most extend in the document. Here you have to write all the fea
   
 ### Test Plan
 This is the final part of the TDD. In this section, you need to describe how you are going to test the results of the different versions and when.
+
+
+## References
+Pages used to do the research:
+*[Unworthy Roses TDD] (https://hell-and-back.fandom.com/wiki/Technical_Design_Document)
+*[dlorenzolaguno research of a TDD](https://dlorenzolaguno17.github.io/TDD/)
+*[Better Tech Specs](https://www.range.co/blog/better-tech-specs)
+*[Machine Words (by Tailin)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
+*[DEV Community](https://dev.to/mage_ai/how-to-write-technical-design-docs-c02)
