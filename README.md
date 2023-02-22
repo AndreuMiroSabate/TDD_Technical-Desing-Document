@@ -19,7 +19,7 @@ Schedule from: Technical Design Document
 This is one of the most important parts of the TDD. In this part the team has to specify what technical objectives are planned to achieve by the end of the project or the problems to solve. A few examples can be some features of the game like enemies IA, immersive sound…
 ### Technical Risks
 This part exists because it is good to have in mind what problems could we find when we pretend to accomplish an objective, to be prepared to solve it or don’t be surprised if they happen. This problem can be: game go slow, don’t have enough time, can generate bugs, etc. 
-### Performance Budgets
+#### Performance Budgets
 Many of the problem could be from limitations of the material we use, like lack of memory, so is important to have this limitations in our mind.
 ### Structure
 If you search some examples of TDD, this part sometimes is but sometimes is not. Here you define how the project will be organized, like what will be in every carpet of the project. At the same time you can define de naming rules for the documentents, like this:
@@ -34,12 +34,10 @@ Some examples could be:
 - Preferibly use while for loops
 - When use classes or structs
 For more examples click here: TDD of Unworthy Roses, Narbacular Drop - Technical Design Document, Technical Design Document
-### Code UML
+#### Code UML
 As an extra for coding, you can add an UML of the code, that would help to have all organized.
 Image from THE TECHNICAL DESIGN DOCUMENT | TDD by dlorenzolaguno17
 ### Project technical features
 This part is the most extend in the document. Here you have to write all the features that need a technical explanation. Examples can be mechanics, the physics of the game, the AI of the NPC or enemies or the UI.
 ### Test Plan
 This is the final part of the TDD. In this section, you need to describe how you are going to test the results of the different versions and when.
-
-.
