@@ -24,7 +24,7 @@ Many of the problem could be from limitations of the material we use, like lack 
 ### Structure
 If you search some examples of TDD, this part sometimes is but sometimes is not. Here you define how the project will be organized, like what will be in every carpet of the project. At the same time you can define de naming rules for the documentents, like this:
 <p align="center">
-  <img src="https://https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/main/docs/roses.PNG?raw=true" alt="Github branches" width="450" height="578">
+  <img src="https://https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/main/docs/roses.PNG?raw=true">
 </p>
 This fragment is from the TDD of Unworthy Roses
 ### Levels
