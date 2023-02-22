@@ -23,9 +23,7 @@ This part exists because it is good to have in mind what problems could we find 
 Many of the problem could be from limitations of the material we use, like lack of memory, so is important to have this limitations in our mind.
 ### Structure
 If you search some examples of TDD, this part sometimes is but sometimes is not. Here you define how the project will be organized, like what will be in every carpet of the project. At the same time you can define de naming rules for the documentents, like this:
-<p align="center">
-  <img src="https://https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/main/docs/roses.PNG?raw=true">
-</p>
+![roses](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/0fde01561bcef5071bda713a85debecef510f95f/docs/roses.PNG)
 This fragment is from the TDD of Unworthy Roses
 ### Levels
 As the name says, it is convenient to explain technical aspects of your game. These aspects can be, what will the player have to do in that level and what mechanics are required. You can do a brief explanation of each level.
