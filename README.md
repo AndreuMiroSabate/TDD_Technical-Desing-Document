@@ -37,6 +37,7 @@ For more examples click here: TDD of Unworthy Roses, Narbacular Drop - Technical
 #### Code UML
 As an extra for coding, you can add an UML of the code, that would help to have all organized.
 Image from THE TECHNICAL DESIGN DOCUMENT | TDD by dlorenzolaguno17
+
 ### Project technical features
 This part is the most extend in the document. Here you have to write all the features that need a technical explanation. Examples can be mechanics, the physics of the game, the AI of the NPC or enemies or the UI.
 ### Test Plan
