@@ -34,6 +34,7 @@ Many of the problem could be from limitations of the material we use, like lack 
 ### Structure
 If you search some examples of TDD, this part sometimes is but sometimes is not. Here you define how the project will be organized, like what will be in every carpet of the project. At the same time you can define de naming rules for the documentents, like this:
 ![roses](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/0fde01561bcef5071bda713a85debecef510f95f/docs/roses.PNG)
+
 This fragment is from the TDD of [Unworthy Roses](https://hell-and-back.fandom.com/wiki/Technical_Design_Document)
 
 ### Levels
@@ -46,6 +47,7 @@ Some examples could be:
 - All global variables must be in capital letters
 - Preferibly use while for loops
 - When use classes or structs
+
 For more examples click here: [TDD of Unworthy Roses](https://hell-and-back.fandom.com/wiki/Technical_Design_Document), [Narbacular Drop - Technical Design Document](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
 
 #### Code UML
