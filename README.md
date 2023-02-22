@@ -34,7 +34,7 @@ Many of the problem could be from limitations of the material we use, like lack 
 ### Structure
 If you search some examples of TDD, this part sometimes is but sometimes is not. Here you define how the project will be organized, like what will be in every carpet of the project. At the same time you can define de naming rules for the documentents, like this:
 ![roses](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/0fde01561bcef5071bda713a85debecef510f95f/docs/roses.PNG)
-This fragment is from the TDD of Unworthy Roses
+This fragment is from the TDD of [Unworthy Roses](https://hell-and-back.fandom.com/wiki/Technical_Design_Document)
 
 ### Levels
 As the name says, it is convenient to explain technical aspects of your game. These aspects can be, what will the player have to do in that level and what mechanics are required. You can do a brief explanation of each level.
@@ -46,11 +46,11 @@ Some examples could be:
 - All global variables must be in capital letters
 - Preferibly use while for loops
 - When use classes or structs
-For more examples click here: TDD of Unworthy Roses, Narbacular Drop - Technical Design Document, Technical Design Document
+For more examples click here: [TDD of Unworthy Roses](https://hell-and-back.fandom.com/wiki/Technical_Design_Document), [Narbacular Drop - Technical Design Document](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
 
 #### Code UML
 As an extra for coding, you can add an UML of the code, that would help to have all organized.
-Image from THE TECHNICAL DESIGN DOCUMENT | TDD by dlorenzolaguno17
+Image from THE TECHNICAL DESIGN DOCUMENT | [TDD by dlorenzolaguno17](https://dlorenzolaguno17.github.io/TDD/)
 
 ### Project technical features
 This part is the most extend in the document. Here you have to write all the features that need a technical explanation. Examples can be mechanics, the physics of the game, the AI of the NPC or enemies or the UI.
@@ -62,7 +62,7 @@ This is the final part of the TDD. In this section, you need to describe how you
 ## References
 Pages used to do the research:
 
-[Unworthy Roses TDD] (https://hell-and-back.fandom.com/wiki/Technical_Design_Document)
+[Unworthy Roses TDD](https://hell-and-back.fandom.com/wiki/Technical_Design_Document)
 
 [dlorenzolaguno research of a TDD](https://dlorenzolaguno17.github.io/TDD/)
 
@@ -71,3 +71,5 @@ Pages used to do the research:
 [Machine Words (by Tailin)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 
 [DEV Community](https://dev.to/mage_ai/how-to-write-technical-design-docs-c02)
+
+[Narbacular Drop TDD](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
