@@ -31,7 +31,7 @@ The plan that the team is going to follow during the process.
 
 ![shedule](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/59be5981c93f908aa6264b048e54afd463f70cf6/docs/scheme.PNG)
 
-Schedule from: Technical Design Document
+Schedule from: [TDD ComputersGames MMU](https://computergamesmmu.files.wordpress.com/2012/10/technical-design-document-final.pdf)
 
 ### Technical Goals
 This is one of the most important parts of the TDD. In this part the team has to specify what technical objectives are planned to achieve by the end of the project or the problems to solve. A few examples can be some features of the game like enemies IA, immersive sound…
@@ -93,3 +93,5 @@ Pages used to do the research:
 [Narbacular Drop TDD](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
 
 [TDD Watcraft II bu Dev Crumbs](https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document)
+
+[ComputersGame MMU](https://computergamesmmu.files.wordpress.com/2012/10/technical-design-document-final.pdf)
