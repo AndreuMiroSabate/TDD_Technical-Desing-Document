@@ -76,6 +76,8 @@ This part is the most extend in the document. Here you have to write all the fea
 ### Test Plan
 This is the final part of the TDD. In this section, you need to describe how you are going to test the results of the different versions and when.
 
+## Template
+Click [here](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/4e23ffb87c942d1272b1b7c4ef76704aa7be7082/templates/TDD.docx) to download a template for the TDD.
 
 ## References
 Pages used to do the research:
