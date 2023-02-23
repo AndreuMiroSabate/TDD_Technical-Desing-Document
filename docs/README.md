@@ -1,5 +1,10 @@
 # TDD - Tech Desing Document
 
+## Who I am?
+I am an student of UPC CITM. This research was for a project of the university with the objective to teach to all my partners how toto a good TDD.
+My [Github]()
+The [Repository]()
+
 ## 1. Introduction
 
 ### What is a TDD?
