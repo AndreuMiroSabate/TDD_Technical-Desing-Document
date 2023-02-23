@@ -29,7 +29,7 @@ This part is not essential, but will help to make an idea what you use to make t
 ### Schedule
 The plan that the team is going to follow during the process.
 
-![shedule](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/59be5981c93f908aa6264b048e54afd463f70cf6/docs/scheme.PNG)
+![shedule](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/a428d07a25587a3a47328405332f235622fc7097/docs/IMAGES/scheme.PNG)
 
 Schedule from: [TDD ComputersGames MMU](https://computergamesmmu.files.wordpress.com/2012/10/technical-design-document-final.pdf)
 
