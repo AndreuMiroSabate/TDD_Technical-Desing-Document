@@ -53,6 +53,7 @@ For more examples click here: [TDD of Unworthy Roses](https://hell-and-back.fand
 
 #### Code UML
 As an extra for coding, you can add an UML of the code, that would help to have all organized.
+![UML](https://github.com/AndreuMiroSabate/TDD_Technical-Desing-Document/blob/7dd62f8e0544f722abc7d0bae98e0d8fe5b922ca/docs/general_UML.png)
 Image from [TDD Warcraft II by Dev Crumbs]([https://dlorenzolaguno17.github.io/TDD/](https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document))
 
 ### Project technical features
