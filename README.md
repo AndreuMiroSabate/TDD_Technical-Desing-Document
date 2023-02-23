@@ -53,7 +53,7 @@ For more examples click here: [TDD of Unworthy Roses](https://hell-and-back.fand
 
 #### Code UML
 As an extra for coding, you can add an UML of the code, that would help to have all organized.
-Image from THE TECHNICAL DESIGN DOCUMENT | [TDD by dlorenzolaguno17](https://dlorenzolaguno17.github.io/TDD/)
+Image from [TDD Warcraft II by Dev Crumbs]([https://dlorenzolaguno17.github.io/TDD/](https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document))
 
 ### Project technical features
 This part is the most extend in the document. Here you have to write all the features that need a technical explanation. Examples can be mechanics, the physics of the game, the AI of the NPC or enemies or the UI.
@@ -76,3 +76,5 @@ Pages used to do the research:
 [DEV Community](https://dev.to/mage_ai/how-to-write-technical-design-docs-c02)
 
 [Narbacular Drop TDD](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
+
+[TDD Watcraft II bu Dev Crumbs](https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document)
